@@ -6,7 +6,7 @@
 
 ## Construído com 
 
-Django - é é um framework para desenvolvimento rápido para web, 
+Django - é um framework para desenvolvimento rápido para web, 
 escrito em Python, que utiliza o padrão model-template-view.
 
 Python - é uma linguagem de programação de alto nível, interpretada de script, 
@@ -22,8 +22,7 @@ a banco de dados SQL sem executar um processo SGBD separado.
 - [x] Django
  
 
-## Packages
-- Arquivos de apps
+## Arquivos Django
 
 - migrations = arquivos das base de dados
 - __init.py__ = só serve pra indicar que isso é pacote
