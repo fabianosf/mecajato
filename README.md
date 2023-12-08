@@ -1,7 +1,7 @@
 # Projeto Mecajato
 
 ## Django Framework
-![](https://imgur.com/08nNHZI)
+![](https://imgur.com/a/f0qHuFs)
  
 
 ## Construído com 
